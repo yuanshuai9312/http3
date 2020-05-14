@@ -1,0 +1,5 @@
+D:\NETSPACE\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll.config
+D:\NETSPACE\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll
+D:\NETSPACE\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.pdb
+D:\NETSPACE\WebServiceDemo\WebServiceDemo\obj\Release\WebServiceDemo.dll
+D:\NETSPACE\WebServiceDemo\WebServiceDemo\obj\Release\WebServiceDemo.pdb

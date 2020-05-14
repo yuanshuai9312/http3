@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Test\WebServer\WebServer\bin\WebServer.dll.config
+C:\Users\Administrator\Desktop\Test\WebServer\WebServer\bin\WebServer.dll
+C:\Users\Administrator\Desktop\Test\WebServer\WebServer\bin\WebServer.pdb
+C:\Users\Administrator\Desktop\Test\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test\WebServer\WebServer\obj\Debug\WebServer.dll
+C:\Users\Administrator\Desktop\Test\WebServer\WebServer\obj\Debug\WebServer.pdb
+D:\http3\Test\WebServer\WebServer\bin\WebServer.dll.config
+D:\http3\Test\WebServer\WebServer\bin\WebServer.dll
+D:\http3\Test\WebServer\WebServer\bin\WebServer.pdb
+D:\http3\Test\WebServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+D:\http3\Test\WebServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+D:\http3\Test\WebServer\WebServer\obj\Debug\WebServer.dll
+D:\http3\Test\WebServer\WebServer\obj\Debug\WebServer.pdb

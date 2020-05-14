@@ -1,0 +1,13 @@
+D:\NETSPACE\WebServiceDemo\WebServiceClient\bin\WebServiceClient.dll.config
+D:\NETSPACE\WebServiceDemo\WebServiceClient\bin\WebServiceClient.dll
+D:\NETSPACE\WebServiceDemo\WebServiceClient\bin\WebServiceClient.pdb
+D:\NETSPACE\WebServiceDemo\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+D:\NETSPACE\WebServiceDemo\WebServiceClient\obj\Debug\WebServiceClient.dll
+D:\NETSPACE\WebServiceDemo\WebServiceClient\obj\Debug\WebServiceClient.pdb
+D:\http3\WebServiceDemo\WebServiceClient\bin\WebServiceClient.dll.config
+D:\http3\WebServiceDemo\WebServiceClient\bin\WebServiceClient.dll
+D:\http3\WebServiceDemo\WebServiceClient\bin\WebServiceClient.pdb
+D:\http3\WebServiceDemo\WebServiceClient\obj\Debug\WebServiceClient.csprojAssemblyReference.cache
+D:\http3\WebServiceDemo\WebServiceClient\obj\Debug\WebServiceClient.csproj.CoreCompileInputs.cache
+D:\http3\WebServiceDemo\WebServiceClient\obj\Debug\WebServiceClient.dll
+D:\http3\WebServiceDemo\WebServiceClient\obj\Debug\WebServiceClient.pdb
